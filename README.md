@@ -1,2 +1,2 @@
-# Rain-alert-sms
-Checking the forecast of my location and sending me sms if it suppose to rain 
+# Rain-alert
+Checking the forecast of my location and alerting if I should take an umbrella
